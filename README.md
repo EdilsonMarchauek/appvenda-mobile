@@ -20,7 +20,7 @@ Funcionalidades Principais:
 
 <b>Acompanhamento de Vendas Individuais:</b> Cada vendedor tem acesso a uma seção onde podem visualizar suas próprias vendas anteriores. Isso inclui informações detalhadas sobre cada venda, como cliente, produto, quantidade, preço total e data.
 
-<b>Visualização de Todas as Vendas: Há uma funcionalidade para visualizar todas as vendas realizadas, independentemente do vendedor. Isso permite uma visão geral das atividades de vendas da empresa.
+<b>Visualização de Todas as Vendas:</b> Há uma funcionalidade para visualizar todas as vendas realizadas, independentemente do vendedor. Isso permite uma visão geral das atividades de vendas da empresa.
 
 <b>Valores Totais e Individuais:</b> O aplicativo também exibe valores totais de vendas, tanto globais quanto individuais para cada vendedor. Isso auxilia na análise do desempenho de vendas.
 
