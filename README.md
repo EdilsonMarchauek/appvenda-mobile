@@ -16,7 +16,7 @@ Funcionalidades Principais:
 
 <b>Quantidade e Preço Total:</b> Os vendedores podem inserir a quantidade do produto vendido e o aplicativo calcula automaticamente o total de vendas com base no preço informado.
 
-<b>Registro da Venda: Uma vez que todos os detalhes da venda forem selecionados, os vendedores podem registrar a venda, que será armazenada no banco de dados do aplicativo.</b>
+<b>Registro da Venda:</b> Uma vez que todos os detalhes da venda forem selecionados, os vendedores podem registrar a venda, que será armazenada no banco de dados do aplicativo.
 
 <b>Acompanhamento de Vendas Individuais:</b> Cada vendedor tem acesso a uma seção onde podem visualizar suas próprias vendas anteriores. Isso inclui informações detalhadas sobre cada venda, como cliente, produto, quantidade, preço total e data.
 
