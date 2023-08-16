@@ -6,7 +6,7 @@ Funcionalidades Principais:
 
 <b>Tela de Login:</b> O aplicativo inicia com uma tela de login para autenticação dos vendedores. Cada vendedor tem sua conta única para acessar o sistema.
 
-<b>Página Inicial:</b> Após o login, os vendedores são redirecionados para a página inicial do aplicativo.
+<b>Página Inicial:</b> Após o login, os vendedores são redirecionados para a página inicial do aplicativo com um painel de vendas realizadas.
 
 <b>Seleção de Clientes:</b> Os vendedores podem selecionar o cliente para o qual desejam registrar a venda. Isso pode ser feito a partir de uma lista de clientes previamente cadastrados no sistema.
 
